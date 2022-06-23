@@ -35,6 +35,7 @@ nouns = [
     'cowgirls',
     'demons',
     'fairies',
+    'femboys',
     'heiresses',
     'librarians',
     'milves',

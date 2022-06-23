@@ -22,7 +22,7 @@ modifiers = [
     'horsecock',
     'lactating',
     'lesbian',
-    'multiboob,
+    'multiboob',
     'pregnant',
     'virgin',
 ]

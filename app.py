@@ -24,6 +24,7 @@ modifiers = [
     'lesbian',
     'multiboob',
     'pregnant',
+    'shortstack',
     'virgin',
 ]
 
@@ -36,10 +37,13 @@ nouns = [
     'demons',
     'fairies',
     'femboys',
+    'goblins',
     'heiresses',
     'librarians',
+    'mermaids',
     'milves',
     'nuns',
+    'orcs',
     'vampires',
     'witches',
 ]

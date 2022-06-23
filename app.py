@@ -13,6 +13,7 @@ adjectives = [
     'hung',
     'ravenous',
     'shy',
+    'spoiled',
 ]
 
 modifiers = [
@@ -21,6 +22,7 @@ modifiers = [
     'horsecock',
     'lactating',
     'lesbian',
+    'multiboob,
     'pregnant',
     'virgin',
 ]
@@ -32,6 +34,10 @@ nouns = [
     'centaurs',
     'cowgirls',
     'demons',
+    'fairies',
+    'heiresses',
+    'librarians',
+    'milves',
     'nuns',
     'vampires',
     'witches',

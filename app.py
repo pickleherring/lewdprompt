@@ -19,6 +19,7 @@ adjectives = [
 modifiers = [
     'big-butt',
     'college',
+    'goth',
     'horsecock',
     'lactating',
     'lesbian',

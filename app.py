@@ -9,9 +9,11 @@ import streamlit
 adjectives = [
     'buff',
     'busty',
+    'frustrated',
     'horny',
     'hung',
     'ravenous',
+    'repressed',
     'shy',
     'spoiled',
 ]
@@ -19,6 +21,7 @@ adjectives = [
 modifiers = [
     'big-butt',
     'college',
+    'emo',
     'goth',
     'horsecock',
     'lactating',
@@ -45,6 +48,7 @@ nouns = [
     'milves',
     'nuns',
     'orcs',
+    'pixies',
     'vampires',
     'witches',
 ]

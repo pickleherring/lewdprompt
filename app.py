@@ -7,15 +7,20 @@ import streamlit
 
 
 adjectives = [
+    'annoying',
     'buff',
     'busty',
+    'chubby',
     'frustrated',
     'horny',
     'hung',
+    'lazy',
+    'mindless',
     'ravenous',
     'repressed',
     'shy',
     'spoiled',
+    'vain',
 ]
 
 modifiers = [
@@ -26,9 +31,11 @@ modifiers = [
     'horsecock',
     'lactating',
     'lesbian',
+    'mom-bod',
     'multiboob',
     'pregnant',
     'shortstack',
+    'tomboy',
     'virgin',
 ]
 
